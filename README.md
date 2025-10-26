@@ -32,7 +32,7 @@ python main.py
 *Note: You can change the address and port in the config file **config_prod.yml***
 
 ## FAST API Docs url:
-http://0.0.0.0:8003/docs#/
+http://127.0.0.1:8003/docs#/
 
 ---
 # 🚀 Code Examples
@@ -41,7 +41,7 @@ The following code demonstrates how to perform model predict and receive the res
 ```python
 import requests
 
-api_host = 'http://0.0.0.0:8003/'
+api_host = 'http://127.0.0.1:8003/'
 type_rq = 'predict'
 
 input_data = {
