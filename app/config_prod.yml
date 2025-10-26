@@ -1,0 +1,5 @@
+VERSION: '2025-10-26'
+MODEL_DIR: './models/'
+PORT: 8003
+HOST: '127.0.0.1'
+DEBUG: False
