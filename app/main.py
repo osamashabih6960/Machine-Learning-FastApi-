@@ -11,7 +11,7 @@ from loguru import logger
 import sys
 from catboost import CatBoostClassifier
 import yaml
-
+import mlflow
 
 ####################################### logger #################################
 
