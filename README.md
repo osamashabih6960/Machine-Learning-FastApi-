@@ -139,3 +139,4 @@ The following dependencies are required to run this code:
 * pydantic
 * catboost
 * Docker
+* Uvicorn
